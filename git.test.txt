@@ -1,8 +1,8 @@
 
 
 
-# ¾È³çÇÏ¼¼¿ä? JakeÀÔ´Ï´Ù. 
-# TestÁøÇà Áß https://github.com/memoming/memoming_gitTest.git
+# ì•ˆë…•í•˜ì„¸ìš”? Jakeì…ë‹ˆë‹¤. 
+# Testì§„í–‰ ì¤‘ https://github.com/memoming/memoming_gitTest.git
 
 
 --------------------------------------------------
@@ -17,3 +17,5 @@ git status
 git add . 
 git commit -m "massage" 
 git push origin +master  
+
+Is it working ? 
