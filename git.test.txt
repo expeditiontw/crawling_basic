@@ -2,4 +2,13 @@
 
 
 # 안녕하세요? Jake입니다. 
-# Test진행 중
+# Test진행 중 https://github.com/memoming/memoming_gitTest.git
+
+1) Pull 
+git pull origin master 
+
+2) Push
+git status 
+git add . 
+git commit -m "massage" 
+git push origin +master  
