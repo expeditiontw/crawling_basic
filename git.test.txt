@@ -4,6 +4,11 @@
 # 안녕하세요? Jake입니다. 
 # Test진행 중 https://github.com/memoming/memoming_gitTest.git
 
+
+--------------------------------------------------
+
+git remote add origin repository address 
+
 1) Pull 
 git pull origin master 
 
